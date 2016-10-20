@@ -1,3 +1,3 @@
 # nour-gifs
 
-the only nour give package out there. Lovley.
+the only nour GIF package out there. Lovley.
